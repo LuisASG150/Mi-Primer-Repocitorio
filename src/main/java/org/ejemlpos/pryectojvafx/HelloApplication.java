@@ -15,7 +15,7 @@ public class HelloApplication extends Application {
         //ANTES
         //stage.setTitle("Hello!");
         //DESPUES
-        stage.setTitle("PRECIONAME");
+        stage.setTitle("PRECIONAME.");
 
         stage.setScene(scene);
         stage.show();
